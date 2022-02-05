@@ -78,7 +78,8 @@ The following env variables are supported:
  accesses, and the way python asynchronous calls work.
  - `BAN_STICKER`: Which sticker to use when banning people.
  - `ALLOW_EXCL`: Whether to allow using exclamation marks ! for commands as well as /.
-
+### DEPLOY TO HEROKU 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SUKHPAL443/CINDERELLAPROBOT.git)
 ### Python dependencies
 
 Install the necessary python dependencies by moving to the project directory and running:
